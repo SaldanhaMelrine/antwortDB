@@ -8,7 +8,8 @@ antwortDB is a modular, schema-aware system that enables users to query structur
 
 ## Demo
 
-![antwortDB Demo](demo.png)
+![antwortDB Demo](<img width="915" height="642" alt="image" src="https://github.com/user-attachments/assets/71c7b4a0-e9db-433a-b3bf-af76acbedff6" />
+
 
 ---
 
